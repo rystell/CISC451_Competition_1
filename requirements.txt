@@ -1,0 +1,8 @@
+geopandas
+pandas
+numpy
+openpyxl
+xlrd
+geopy
+json
+requests
